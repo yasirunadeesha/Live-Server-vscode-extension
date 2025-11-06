@@ -29,14 +29,14 @@ A powerful VS Code extension that launches a development server with live reload
 ## 🚀 Installation
 
 ### Manual Installation
-1. Download the VSIX file: [live-server-0.0.2.vsix](https://github.com/yasirunadeesha/Live-Server-vscode-extenson/releases/latest)
+1. Download the VSIX file: [live-server-0.0.2.vsix](https://github.com/yasirunadeesha/Live-Server-vscode-extension/releases/latest)
 2. In VS Code: `Ctrl+Shift+X` → `...` → `Install from VSIX...`
 3. Select the downloaded file
 
 You can also clone and build from source:
 ```bash
-git clone https://github.com/yasirunadeesha/Live-Server-vscode-extenson.git
-cd Live-Server-vscode-extenson
+git clone https://github.com/yasirunadeesha/Live-Server-vscode-extension.git
+cd Live-Server-vscode-extension
 npm install
 npm run compile
 ```
@@ -117,8 +117,8 @@ The extension automatically tries up to 10 alternative ports if the default port
 
 ### Building from Source
 ```bash
-git clone https://github.com/yasirunadeesha/Live-Server-vscode-extenson.git
-cd Live-Server-vscode-extenson
+git clone https://github.com/yasirunadeesha/Live-Server-vscode-extension.git
+cd Live-Server-vscode-extension
 npm install
 npm run compile
 ```
@@ -159,11 +159,11 @@ This extension is licensed under the [MIT License](LICENSE.md).
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/yasirunadeesha/Live-Server-vscode-extenson)
+- [GitHub Repository](https://github.com/yasirunadeesha/Live-Server-vscode-extension)
 - [Changelog](CHANGELOG.md)
-- [Issues](https://github.com/yasirunadeesha/Live-Server-vscode-extenson/issues)
+- [Issues](https://github.com/yasirunadeesha/Live-Server-vscode-extension/issues)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yasiru.live-server)
-- [Download Latest Release](https://github.com/yasirunadeesha/Live-Server-vscode-extenson/releases/latest)
+- [Download Latest Release](https://github.com/yasirunadeesha/Live-Server-vscode-extension/releases/latest)
 
 ## ⚠️ Security Notes
 
